@@ -1,7 +1,11 @@
 docker-ebot
 ================
 
-[![](https://images.microbadger.com/badges/version/hsfactory/ebot.svg)](https://microbadger.com/images/hsfactory/ebot "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/hsfactory/ebot.svg)](https://microbadger.com/images/hsfactory/ebot "Get your own image badge on microbadger.com") 
+Fork from jffz/docker-ebot, updating to support Toornament v2 API update of eBot.
+Along with drumslayer/docker-ebotweb.
+
+
+[![](https://images.microbadger.com/badges/version/drumslayer/ebot.svg)](https://microbadger.com/images/drumslayer/ebot "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/drumslayer/ebot.svg)](https://microbadger.com/images/drumslayer/ebot "Get your own image badge on microbadger.com") 
 
 Dockerised eBot (https://github.com/deStrO/eBot-CSGO) for ease of use. 
 
